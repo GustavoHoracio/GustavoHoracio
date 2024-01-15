@@ -11,4 +11,8 @@
      />  <img align="center" alt=="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
      />  <img align="center" alt=="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
      />
-</div>
+</div><br/>
+
+## Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+
+## Melhorando 1% a cada dia!
